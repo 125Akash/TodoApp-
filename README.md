@@ -92,6 +92,10 @@ This is a simple Todo application built using React for the frontend, MongoDB fo
 
 Feel free to contribute to the project by opening issues or submitting pull requests. Follow the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
+
+
+
+
+
+
