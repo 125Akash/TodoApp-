@@ -55,19 +55,11 @@ This is a simple Todo application built using React for the frontend, MongoDB fo
    SECRET=your_secret_key
    ```
 
-   - `PORT`: Port number for the server (default is 3001).
-   - `MONGODB_URI`: Connection URI for your MongoDB database.
-   - `SECRET_KEY`: Secret key for JWT token generation.
+   - `PORT`: Port number for the server (default is 4000).
+   - `MONGODB_URI`: Connection URI for your MongoDB Atlas
+   - `SECRET`: Secret key for JWT token generation.
 
-2. Update the `client/src/config.js` file with the appropriate API URL:
 
-   ```javascript
-   const config = {
-     apiUrl: 'http://localhost:3001/api', // Change this to your server API URL
-   };
-
-   export default config;
-   ```
 
 ## Usage
 
