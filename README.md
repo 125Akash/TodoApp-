@@ -51,7 +51,7 @@ This is a simple Todo application built using React for the frontend, MongoDB fo
 
    ```env
    PORT=4000
-   MONGODB_URL=mongodb://localhost:27017/todo-app
+   MONGODB_URL= your mongodb Atlas url
    SECRET=your_secret_key
    ```
 
