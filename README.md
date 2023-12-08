@@ -94,8 +94,15 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 
 
+![Alt text](./Image6.png)  <br/>
+![Alt text](./Image1.png)  <br/>
+![Alt text](./Image3.png)  <br/>
+![Alt text](./Image4.png)  <br/>
+![Alt text](./Image5.png)  <br/>
+![Alt text](./Image2.png) <br/>
+![Login](./Screenshot_2023-12-08_17_10_53.png)  <br/>
+![Register](./Register.png)  
 
-![Alt text](./Image6.png)
 
 
 
