@@ -94,6 +94,7 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 
 <img src="https://github.com/125Akash/TodoApp-/blob/main/Image6.png" alt="Login" width="500" height="300" >
+<img src="https://github.com/125Akash/TodoApp-/blob/main/Register.png" alt="Login" width="500" height="300" >
 
 
 
