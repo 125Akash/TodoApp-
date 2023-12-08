@@ -94,7 +94,8 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 
 
-![alt text](https://github.com/125Akash/TodoApp-/blob/main/Image6.png?raw=true)
+
+![Alt text](https://github.com/125Akash/TodoApp-/blob/main/Image6.png)
 
 
 
