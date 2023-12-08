@@ -93,8 +93,8 @@ This is a simple Todo application built using React for the frontend, MongoDB fo
 Feel free to contribute to the project by opening issues or submitting pull requests. Follow the [CONTRIBUTING.md](CONTRIBUTING.md) guideline
 
 
-<img src="https://github.com/125Akash/TodoApp-/blob/main/Image6.png" alt="Login" width="1000" height="1000" >
-<img src="https://github.com/125Akash/TodoApp-/blob/main/Register.png" alt="Login" width="500" height="300" >
+
+![alt text](https://github.com/125Akash/TodoApp-/blob/main/Image6.png?raw=true)
 
 
 
